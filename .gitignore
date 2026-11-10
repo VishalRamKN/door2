@@ -1,0 +1,22 @@
+# Allowlist: only what someone working on the door needs goes in this repo.
+/*
+!/.gitignore
+!/README.md
+!/PROJECT.md
+!/NOTES.md
+!/model.py
+!/firmware/
+
+/out/*
+!/out/
+!/out/*.mp4
+!/out/*_chapters.txt
+!/out/door2.FCStd
+!/out/renders/
+!/out/stl/
+!/out/step/
+
+# firmware build output and editor files
+.pio/
+.vscode/
+__pycache__/

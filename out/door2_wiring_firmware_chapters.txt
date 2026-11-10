@@ -1,0 +1,18 @@
+door2 wiring + firmware video: chapters (pause on any diagram or table)
+
+0:00  Title
+0:03  What you need, where things stand
+0:14  Where everything is
+1:01  Wiring
+2:13  Why the switches use NC
+2:44  Before any power
+2:52  Flash the firmware
+3:24  Bring-up 1 of 4 · switches
+4:02  Bring-up 2 of 4 · neutral
+4:17  Bring-up 3 of 4 · jog
+4:50  Bring-up 4 of 4 · first open and close
+5:13  Tuning
+5:42  The code, top to bottom
+6:32  Adding your own logic
+7:10  When something goes wrong
+7:38  The order to follow
